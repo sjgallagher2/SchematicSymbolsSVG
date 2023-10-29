@@ -24,6 +24,13 @@ Similar projects and symbol collections:
 * https://github.com/upb-lea/Inkscape_electric_Symbols
 * https://en.m.wikipedia.org/wiki/File:Electrical_symbols_library.svg
 
+## Symbols
+![Schematic Symbols](SVG-symbols-With-References.svg)
+
+## Fonts
+On Windows, fonts are Arial, Arial Narrow (or Condensed), Cambria, Helvetica Narrow (non-free), or Adobe Caslon Pro (optional, for Greek symbols).
+On Linux, use Liberation Sans, Liberation Sans Narrow, Free Sans, or Noto Sans Condensed. 
+
 ## Inkscape Tips and Tricks
 These are the most useful tips and tricks I've found when using Inkscape. I'm using verison 1.22.
 
