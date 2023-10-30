@@ -35,21 +35,25 @@ On Linux, use Liberation Sans, Liberation Sans Narrow, Free Sans, or Noto Sans C
 
 **Example 1.** Active probe circuit from Bob Pease, _Troubleshooting Analog Circuits_. Linear Technology style.
 
-![Active Probe](examples/activeprobe1.png)
+<img src="examples/activeprobe1.png" width="400" />
 
 **Example 2.** Op amp equivalent circuit. Linear Technology style.
 
-![Op amp](examples/opamp1.png)
+<img src="examples/opamp1.png" width="400" />
 
 **Example 3.** A "phantastron" pulse generator, from Markus' _Sourcebook of Electronic Circuits_. National Semiconductor style.
 
-![Phantastron](examples/phantastron_full.png)
+<img src="examples/phantastron_full.png" width="400" />
 
 **Example 4.** Y-parameters two-port equivalent circuit. Linear Technology style.
 
-![Y Parameters](examples/yparams1.png)
+<img src="examples/yparams1.png" width="400" />
 
+**Example 5.** Limit detector, from Markus' _Sourcebook of Electronic Circuits_. In IEEE Std 315-1975 style, then in an adapted style more similar to the original.
 
+<img src="examples/Std315-1975-Markus1.png" width="400" />
+
+<img src="examples/ElectronicsMagazine-Markus1.png" width="400" />
 
 
 ## Inkscape Tips and Tricks
