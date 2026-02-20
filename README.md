@@ -23,6 +23,8 @@ You'll find the symbols grouped by their source so that consistent style can be 
 Similar projects and symbol collections:
 * https://github.com/upb-lea/Inkscape_electric_Symbols
 * https://en.m.wikipedia.org/wiki/File:Electrical_symbols_library.svg
+* [Circuit_macros](https://ece.uwaterloo.ca/~aplevich/Circuit_macros/html/examples.html)
+* https://www.mbeckler.org/inkscape/circuit_symbols/
 
 ## Symbols
 ![Schematic Symbols](SVG-symbols-With-References.svg)
@@ -54,6 +56,11 @@ On Linux, use Liberation Sans, Liberation Sans Narrow, Free Sans, or Noto Sans C
 <img src="examples/Std315-1975-Markus1.png" width="400" />
 
 <img src="examples/ElectronicsMagazine-Markus1.png" width="400" />
+
+**Example 6.** ADI AD534 schematic, from [MT-079: Analog Multipliers](https://www.analog.com/media/en/training-seminars/tutorials/MT-079.pdf). In Analog Devices style, .svg output.
+
+<img src="examples/ADI_3_example.svg" width="400" />
+
 
 
 ## Inkscape Tips and Tricks
