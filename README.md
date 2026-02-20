@@ -1,7 +1,20 @@
 # SVG Schematic Symbols
 Vector schematic symbols redrawn from Linear Tech, Nat Semi, Analog Devices, textbooks, standards, and more.
 
-Quickly create publication-quality graphics using the same symbol palettes as your favorite manufacturers and textbooks. Symbols are drawn to a 1px grid (coarse grid used for all terminals) with 0.5, 0.7, 1.0, and 1.5px line widths depending on the style. Component sizing is standardized to the resistor, so each new source is imported then scaled so that their resistor is as close to my standard resistor as possible. Then this scale is used for tracing (and often improving upon) other components. Deviations from the original symbols typically come from corrections to symmetry and better alignment to the standard grid. Missing symbols that are small variations from "attested" symbols were added in some cases.
+**Updates**:
+- Inkscape attributes added for identifying components programmatically
+- Circuit_macros svg symbols are being adapted from the website, see Circuit_macros.svg. These are copyright (c) 2026 J. D. Aplevich. The code for Circuit_macros is under the LaTeX Project Public License. 
+
+### About This Project
+Most modern schematics look ugly. The accessibility of digital drawing programs has apparently had a negative impact, with minimum-effort graphics replacing the thoughtfully drawn and laid out schematics of the 60s-90s. Exceptions exist of course, but you don't have to look far to find ugly looking schematics in books, on websites, in application notes. 
+
+The most common recommendations for creating high-quality schematics seem to be [CircuiTikZ](https://ctan.org/pkg/circuitikz?lang=en), [XCircuit](https://opencircuitdesign.com/xcircuit/), and [Circuit_macros](https://ece.uwaterloo.ca/~aplevich/Circuit_macros/html/examples.html), all of which have a steep learning curve and high effort-to-result ratios. For some reason, Inkscape is not recommended, and is only occasionally mentioned, usually with a disparaging remark about it being "good for cartoons," or about it lacking a good library. This is confusing to me, because Inkscape is undoubtedly one of the most powerful vector graphics editing programs available, and it's free. 
+
+Inkscape has all of the functionality required of a schematic editor. It is a WYSIWYG editor with an easy learning curve, and everything is readily editable, from line weights to colors to arrow shapes and grid sizes. You can use default or custom fonts, use extensions to insert LaTeX equations directly on your schematic, and embed raster or vector graphics, all with a drag-and-drop interface. You can export to png, svg, eps, and so on; raster graphics like png have easily configurable resolution. A high-quality schematic can be created as quickly as one could draw it on a piece of paper, and symbols can be tweaked and customized as much as you want. And of course, Inkscape is free and open source. It really is the best option for drawing schematics.
+
+With this collection of symbols, you can quickly create publication-quality graphics using the same symbol palettes as your favorite manufacturers and textbooks. Symbols are drawn to a 1px grid (coarse grid used for all terminals) with 0.5, 0.7, 1.0, and 1.5px line widths depending on the style. Component sizing is standardized to the resistor. This scale is used for tracing (and often improving upon) other components. Deviations from the original symbols typically come from corrections to symmetry and better alignment to the standard grid. Missing symbols that are small variations from "attested" symbols were added in some cases.
+
+### Symbol Library
 
 Symbols were drawn in Inkscape and this is the easiest way to work with them. They're easy to modify and adjust to your own preferences. Fonts attempt to match the original style, while keeping things free and open source. 
 
