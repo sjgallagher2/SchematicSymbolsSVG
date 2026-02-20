@@ -61,6 +61,10 @@ On Linux, use Liberation Sans, Liberation Sans Narrow, Free Sans, or Noto Sans C
 
 <img src="examples/ADI_3_example.svg" width="400" />
 
+**Example 7.** SCR-UJT time delay circuit, from Markus' _Sourcebook of Electronic Circuits_. 
+
+<img src="examples/Markus-ex-1.svg" width="400" />
+
 
 
 ## Inkscape Tips and Tricks
