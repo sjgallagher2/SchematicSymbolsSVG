@@ -2,7 +2,7 @@
 Vector schematic symbols redrawn from Linear Tech, Nat Semi, Analog Devices, textbooks, standards, and more.
 
 **Updates**:
-- Inkscape attributes added for identifying components programmatically
+- Inkscape symbols added for components (go to `Object > Symbols...` on the top toolbar)
 - Circuit_macros svg symbols are being adapted from the website, see Circuit_macros.svg. These are copyright (c) 2026 J. D. Aplevich. The code for Circuit_macros is under the LaTeX Project Public License. 
 
 ### About This Project
@@ -38,7 +38,7 @@ Similar projects and symbol collections:
 * https://www.mbeckler.org/inkscape/circuit_symbols/
 
 ## Symbols
-![Schematic Symbols](SVG-symbols-With-References.svg)
+![Schematic Symbols](Symbols.svg)
 
 ## Fonts
 On Windows, fonts are Arial, Arial Narrow (or Condensed), Cambria, Helvetica Narrow (non-free), or Adobe Caslon Pro (optional, for Greek symbols).
