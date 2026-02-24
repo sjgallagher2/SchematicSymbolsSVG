@@ -2,7 +2,7 @@
 Vector schematic symbols redrawn from Linear Tech, Nat Semi, Analog Devices, textbooks, standards, and more.
 
 **Updates**:
-- Inkscape symbols added for components (go to `Object > Symbols...` on the top toolbar)
+- Inkscape symbols added for components (go to `Object > Symbols...` on the top toolbar). See file `Symbols-Inkscape.svg`. 
 - Circuit_macros svg symbols are being adapted from the website, see Circuit_macros.svg. These are copyright (c) 2026 J. D. Aplevich. The code for Circuit_macros is under the LaTeX Project Public License. 
 
 ### About This Project
@@ -38,6 +38,8 @@ Similar projects and symbol collections:
 * https://www.mbeckler.org/inkscape/circuit_symbols/
 
 ## Symbols
+
+_Note: Github might not render this properly._
 ![Schematic Symbols](Symbols.svg)
 
 ## Fonts
